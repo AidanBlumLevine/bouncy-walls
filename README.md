@@ -4,7 +4,7 @@ A fun physics based mini golf style game! Get to the end before running out of e
 
 <img src="https://github.com/AidanBlumLevine/bouncy-walls/blob/main/thumbnail_gif.gif">
 
-***Play the one level demo [here](https://aidanblumlevine.github.io/bouncy-walls)***
+***Play the one level demo [here](https://aidanblumlevine.github.io/bouncy-walls)*** &nbsp; <sub><sup>the online demo is a little buggy, but works OK on most devices</sup></sub>
 
 **Instructions:** Left click and drag, then release to launch the ball. Right click for grappling hook. R to reset. While dragging, time slows down.
 
